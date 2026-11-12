@@ -5,3 +5,4 @@ slope2
 Slope 2 is a game from VSEIGRU, now on Github! Unofficial Second Installment of Slope!
 
 [![Run on Repl.it](https://repl.it/badge/github/NYPDdev/Slope-2)](https://repl.it/github/NYPDdev/Slope-2)
+Game python
